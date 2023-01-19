@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/FlexiText.com/static/css/main.e6c13ad2.css",
-    "main.js": "/FlexiText.com/static/js/main.cca6ab00.js",
+    "main.js": "/FlexiText.com/static/js/main.acc13728.js",
     "static/js/787.4b1552e3.chunk.js": "/FlexiText.com/static/js/787.4b1552e3.chunk.js",
     "index.html": "/FlexiText.com/index.html",
     "main.e6c13ad2.css.map": "/FlexiText.com/static/css/main.e6c13ad2.css.map",
-    "main.cca6ab00.js.map": "/FlexiText.com/static/js/main.cca6ab00.js.map",
+    "main.acc13728.js.map": "/FlexiText.com/static/js/main.acc13728.js.map",
     "787.4b1552e3.chunk.js.map": "/FlexiText.com/static/js/787.4b1552e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.cca6ab00.js"
+    "static/js/main.acc13728.js"
   ]
 }
